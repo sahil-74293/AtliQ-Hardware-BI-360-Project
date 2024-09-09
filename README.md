@@ -50,27 +50,27 @@ This project features a collection of comprehensive Power BI dashboards, each de
 - **Forecast Accuracy:** Steady, ranging between 80-87%.
 
 ## KPIs & Metrics
-> **Key Performance Indicators (KPIs):**
-> - Net Sales
-> - Gross Margin %
-> - Net Profit %
-> - Forecast Accuracy %
-> - Net Error & Absolute Error
+**Key Performance Indicators (KPIs):**
+- Net Sales
+- Gross Margin %
+- Net Profit %
+- Forecast Accuracy %
+- Net Error & Absolute Error
 
-> **Key Metrics:**
-> - Profit & Loss Statement
-> - Inventory Risk
-> - Gross Margin & Gross Margin % Variance
-> - AtliQ's Market Share & Revenue Contribution
+**Key Metrics:**
+- Profit & Loss Statement
+- Inventory Risk
+- Gross Margin & Gross Margin % Variance
+- AtliQ's Market Share & Revenue Contribution
 
 ## Recommendations
-> - Adapt strategies to increase Net Profit %.
-> - Conduct a deep root cause analysis in LATAM to understand the market, locations, and customer purchasing behavior.
-> - Continue evaluating financial metrics.
-> - Discard and discontinue products that are not selling well.
-> - Optimize operational expenses.
-> - Boost sales through digital marketing, promotions, ads, and offering discounts for consumers.
-> - Enhance cross-team collaboration for effective planning and resource utilization.
+- Adapt strategies to increase Net Profit %.
+- Conduct a deep root cause analysis in LATAM to understand the market, locations, and customer purchasing behavior.
+- Continue evaluating financial metrics.
+- Discard and discontinue products that are not selling well.
+- Optimize operational expenses.
+- Boost sales through digital marketing, promotions, ads, and offering discounts for consumers.
+- Enhance cross-team collaboration for effective planning and resource utilization.
 
 ## Live Dashboard and Linkedin post:
 - **Check out the Dashboard:** [Dashboard Link](https://app.powerbi.com/groups/me/reports/daa7c9e9-79e3-4f13-9084-555eed34e5d8/ReportSection18eb1bf10ecaf3382682?bookmarkGuid=2d2da3bd-c41d-4826-900a-9248e3279100&bookmarkUsage=1&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&portalSessionId=616704ab-81b1-42bb-9695-08c9211ba3ad&fromEntryPoint=export)
